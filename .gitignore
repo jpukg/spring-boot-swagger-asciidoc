@@ -1,0 +1,4 @@
+target
+.settings
+/spring.boot.swagger.asciidoc/*.project
+/spring.boot.swagger.asciidoc/*.classpath
